@@ -16,7 +16,7 @@ node factoriel.js number // number => integer
 
 4-Tri
 
-node tri.js list of numbers //example: node tri.js 4 5 1 3 2
+node bubblesSort.js list of numbers //example: node tri.js 4 5 1 3 2
 
 5-Rectangle
 
